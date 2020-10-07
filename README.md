@@ -1,4 +1,4 @@
-YUTU.Finance实验协议https://YUTU.Finance是一个令人兴奋的新流动性挖矿开源的Defi+NFT实验项目，由一群区块链技术高级工程师出品。yutu.Finance是在Tron网络（领先的区块链平台之一）上创建的。现阶段，yutu.Finance 处于beta实验阶段，yutu.Finance 协议基于TRC20令牌YUTU。
+YUTU.Finance实验协议https://YUTU.Finance 是一个令人兴奋的新流动性挖矿开源的Defi+NFT实验项目，由一群区块链技术高级工程师出品。yutu.Finance是在Tron网络（领先的区块链平台之一）上创建的。现阶段，yutu.Finance 处于beta实验阶段，yutu.Finance 协议基于TRC20令牌YUTU。
 
 1.什么是YUTU token ?
 yutu.Finance 项目正在处于实验阶段。YUTU令牌的初始值由0开始。由社区和矿工决定其潜在令牌值。您将需要安装TronLink钱包插件来挖掘YUTU，选择不同的池来批准和质押您的Token。yutu.Finance 是完全开源的项目，并在Tron上进行了验证。
