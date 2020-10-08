@@ -26,11 +26,11 @@ YUTU的最大供应量仅为12,000。由此上限编写智能合约，YUTU协议
 
 7.运营团队能得到什么？
 
-对于社区所产出的KID令牌数量，运营团队获得铸造该数量的10％YUTU到创世地址，将用于yutu.Finance生态系统和未来开发，营销，审计等。且每次动用团队YUTU会进行公告！
+对于社区所产出的YUTU令牌数量，运营团队获得铸造该数量的10％YUTU到创世地址，将用于yutu.Finance生态系统和未来开发，营销，审计等。且每次动用团队YUTU会进行公告！
 
 YUTU Token总量:12000令牌合约地址:TSgsEqszL7hDSUTrbfBXRxjtFAaM74ChT3   
 
- SUN池总量:50枚，香港时间2020年10月8日12点开启   21天产完。智能合约地址: TGAKc7KeMAo1bU89Cw11FMooDKiL19bHt
+ SUN池总量:50枚，香港时间2020年10月8日12点开启   21天产完。智能合约地址: TGAKc7KeMAo1bU89Cw11FMooDKiL19bHtP
 
 HT池总量:50枚，香港时间2020年10月8日12时开启，21天产完。智能合约地址:TF79kbFiUfJJ7zPaDCQ9PbuwBxaS2gJbuH
 
